@@ -1067,3 +1067,9 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Omer Yazici](https://github.com/foolsjoke)
+- Place: Istanbul, Turkey
+- Bio: SysAdmin, Student
+- GitHub: [foolsjoke](https://github.com/foolsjoke)
+
